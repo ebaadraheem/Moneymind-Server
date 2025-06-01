@@ -51,3 +51,8 @@ Moneymind-Server/
 ├── requirements.txt    # Project dependencies
 ├── README.md           # This file
 └── .gitignore          # Git ignored files (should include venv/)
+
+#Include the .env file 
+GEMINI_API_KEY="Gemini model api key"
+GOOGLE_APPLICATION_CREDENTIALS="Path to your firebase file to access database"
+CORS_ALLOWED_ORIGINS="Frontend url"
