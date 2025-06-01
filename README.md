@@ -50,6 +50,7 @@ Moneymind-Server/
 ├── main.py              # Main Flask app
 ├── requirements.txt    # Project dependencies
 ├── README.md           # This file
+├── .env           # Env file
 └── .gitignore          # Git ignored files (should include venv/)
 
 #Include the .env file 
