@@ -7,7 +7,7 @@ Follow these steps to clone and run the Moneymind Server locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-flask-repo.git
+git clone https://github.com/ebaadraheem/Moneymind-Server.git
 cd Moneymind-Server
 
 3. Create a Virtual Environment
